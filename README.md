@@ -4,7 +4,7 @@ This repository contains a collection of programming exercises in Elixir, organi
 
 # Exercises
 
-- [Hello World]()
-- [Lasagna]()
-- [Secrets]()
+- [Hello World](hello-world)
+- [Lasagna](lasagna)
+- [Secrets](secrets)
 
