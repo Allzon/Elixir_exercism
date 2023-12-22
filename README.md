@@ -7,4 +7,5 @@ This repository contains a collection of programming exercises in Elixir, organi
 - [Hello World](hello-world)
 - [Lasagna](lasagna)
 - [Secrets](secrets)
+- [Pacman-rules](pacman-rules)
 
